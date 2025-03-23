@@ -2,6 +2,10 @@
 <P>I made a login page using mobile first, and media queries, I used formats to adapt the site to Mobiles, Tablets, Tvs, the aim of this project was to strengthen my skills with media queries and mobile first.  project ended - 21.03.2025</P>
 
 
+
+
+
+
 <div align="center">
 <img src="https://github.com/user-attachments/assets/14e09a56-7c7b-4d04-8dd0-6a9b413081bd" width="700px" />
 </div>
