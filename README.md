@@ -5,14 +5,16 @@ https://kburial.github.io/Tela-de-login/
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/14e09a56-7c7b-4d04-8dd0-6a9b413081bd" width="700px" />
-<p><em>Cellphone login page</em></p>
+  <img src="https://github.com/user-attachments/assets/14e09a56-7c7b-4d04-8dd0-6a9b413081bd" width="700px" />
+  <p><em>Cellphone login page</em></p>
 </div>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/025bea4c-007a-488f-8948-f059ac1ab75e" width="700px" />
+  <img src="https://github.com/user-attachments/assets/025bea4c-007a-488f-8948-f059ac1ab75e" width="700px" />
+  <p><em>Tablet login page</em></p>
 </div>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/bb869a51-c70f-4c7e-8861-441f1f9e03ff" width="700px" />
+  <img src="https://github.com/user-attachments/assets/bb869a51-c70f-4c7e-8861-441f1f9e03ff" width="700px" />
+  <p><em>Computer login page</em></p>
 </div>
